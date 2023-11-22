@@ -3,7 +3,7 @@
     "defaultServerity": "error",
     "rules": {
         "no-console": {
-            "serverity": "warning",
+            "severity": "warning",
             "options": ["debug", "info", "log", "time", "timeEnd", "trace"]
         }
     },
